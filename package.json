@@ -1,6 +1,6 @@
 {
   "name": "array-to-true-map",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Converts an array of strings to an object map of keys with a true value",
   "main": "src/index.js",
   "author": "Anthony Liatsis <anthony.liatsis@gmail.com>",
