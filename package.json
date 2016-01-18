@@ -1,9 +1,9 @@
 {
   "name": "array-to-true-map",
   "version": "0.0.1",
-  "description": "a template for basic js packages",
+  "description": "Converts an array of strings to an object map of keys with a true value",
   "main": "src/index.js",
-  "author": "aliatsis@salesforce.com",
+  "author": "Anthony Liatsis <anthony.liatsis@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/relateiq/array-to-true-map",
   "repository": {
